@@ -1,5 +1,15 @@
-title: Siddhant's Title
-description: Siddhant's website
+title: Siddhant Mohan
+description: AI/ML Research Engineer | M.S. Electrical Engineering @ NYU Tandon | LLM Systems, Quantization, Computer Vision
+
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
+- jekyll-seo-tag
+
+show_downloads: false
+
+github:
+  is_project_page: false
+
+plugins:
+  
