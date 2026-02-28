@@ -11,8 +11,8 @@ M.S. Electrical Engineering @ NYU Tandon (May 2026)
 
 [Email](mailto:siddhantmohan1110@gmail.com) | 
 [GitHub](https://github.com/siddhantmohan1110) | 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) | 
-[Resume](resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/siddhant-mohan-1110/) | 
+[CV](Siddhant_Mohan_CV_AI.pdf)
 
 ---
 
