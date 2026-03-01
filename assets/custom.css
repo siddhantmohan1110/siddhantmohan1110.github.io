@@ -26,5 +26,5 @@
   width: 18px;
   height: 18px;
   filter: brightness(0) invert(1);
-  flex-shrink: 0;
+  flex-shrink: 1;
 }
