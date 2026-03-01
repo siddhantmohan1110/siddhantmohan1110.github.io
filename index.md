@@ -3,18 +3,33 @@ layout: default
 title: Siddhant Mohan
 ---
 
-<link rel="stylesheet" href="assets/custom.css">
-
 # Hi there! I'm Siddhant, an AI/ML researcher and engineer from NYU and IIT.
 
 I specialize in **efficient AI systems, LLM optimization, quantization, and computer vision**.  
 I am graduating in **May 2026** and actively seeking **AI/ML Engineer and Applied Research roles**.
 
+<link rel="stylesheet" href="assets/custom.css">
+
 <div class="button-row">
-  <a class="btn" href="mailto:siddhantmohan1110@gmail.com">✉️ Email</a>
-  <a class="btn" href="https://github.com/siddhantmohan1110" target="_blank">💻 GitHub</a>
-  <a class="btn" href="https://www.linkedin.com/in/siddhant-mohan-1110/" target="_blank">🔗 LinkedIn</a>
-  <a class="btn" href="Siddhant_Mohan_CV_AI.pdf" target="_blank">📄 Resume</a>
+  <a class="btn" href="mailto:siddhantmohan1110@gmail.com">
+    <img src="assets/icons/email.svg" class="icon">
+    Email
+  </a>
+
+  <a class="btn" href="https://github.com/siddhantmohan1110" target="_blank">
+    <img src="assets/icons/github.svg" class="icon">
+    GitHub
+  </a>
+
+  <a class="btn" href="https://www.linkedin.com/in/siddhant-mohan-1110/" target="_blank">
+    <img src="assets/icons/linkedin.svg" class="icon">
+    LinkedIn
+  </a>
+
+  <a class="btn" href="Siddhant_Mohan_CV_AI.pdf" target="_blank">
+    <img src="assets/icons/resume.svg" class="icon">
+    Resume
+  </a>
 </div>
 
 ---
