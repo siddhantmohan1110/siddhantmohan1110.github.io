@@ -3,53 +3,75 @@ layout: default
 title: Siddhant Mohan
 ---
 
-# Siddhant Mohan
+<link rel="stylesheet" href="assets/custom.css">
 
-AI/ML Research Engineer  
-M.S. Electrical Engineering @ NYU Tandon (May 2026)  
-4 years AI R&D experience | LLM Systems | Quantization | Computer Vision  
+# Hi there! I'm Siddhant, an AI/ML researcher and engineer from NYU and IIT.
 
-[Email](mailto:siddhantmohan1110@gmail.com) | 
-[GitHub](https://github.com/siddhantmohan1110) | 
-[LinkedIn](https://www.linkedin.com/in/siddhant-mohan-1110/) | 
-[CV](Siddhant_Mohan_CV_AI.pdf)
+I specialize in **efficient AI systems, LLM optimization, quantization, and computer vision**.  
+I am graduating in **May 2026** and actively seeking **AI/ML Engineer and Applied Research roles**.
 
----
-
-## 🔬 About Me
-
-I am a graduate student at NYU Tandon specializing in efficient AI systems, large language models, and computer vision. My work focuses on model compression, quantization, distributed training, and building scalable ML infrastructure.
-
-Previously, I worked as a Senior Research Engineer at Toshiba R&D, where I led applied machine learning projects in incremental learning, anomaly detection, and domain adaptation.
+<div class="button-row">
+  <a class="btn" href="mailto:siddhantmohan1110@gmail.com">✉️ Email</a>
+  <a class="btn" href="https://github.com/siddhantmohan1110" target="_blank">💻 GitHub</a>
+  <a class="btn" href="https://www.linkedin.com/in/siddhant-mohan-1110/" target="_blank">🔗 LinkedIn</a>
+  <a class="btn" href="Siddhant_Mohan_CV_AI.pdf" target="_blank">📄 Resume</a>
+</div>
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Key Projects
 
 ### Distribution-Aware Companding Quantization (DACQ)
-Post-training quantization framework for LLMs that models layer-wise weight distributions and applies non-uniform companding for efficient bit allocation. Integrated activation-aware scaling to preserve downstream accuracy on LLaMA and Qwen models.
+Developed a lightweight **post-training quantization framework for LLMs** that models layer-wise weight distributions and applies non-uniform companding for efficient bit allocation. Integrated activation-aware scaling to preserve downstream accuracy on models such as LLaMA and Qwen.
 
-### Efficient Data Pipelines for Vision-Language Models
-Clustered prompt embeddings for Hybrid Autoregressive Transformers to reuse lower-scale generated images and reduce redundant computation.
-
-### Incremental Learning via Core-Set Selection
-Analyzed dataset characteristics to construct optimal core-sets for downstream deep models, improving memory efficiency while preserving accuracy.
+**Stack:** PyTorch • HuggingFace • CUDA • Statistical modeling
 
 ---
 
-## 🏗 Technical Skills
+### Efficient Data Pipelines for Vision–Language Models
+Clustered prompt embeddings for hybrid autoregressive transformers to reuse lower-scale generated images and reduce redundant computation. Improved computational efficiency through embedding clustering and distributed experimentation.
 
-**Languages:** Python, C++, SQL  
+**Stack:** PyTorch • Ray • HPC (Slurm)
+
+---
+
+### Core-Set Selection for Incremental Learning
+Analyzed dataset characteristics to construct compact core-sets that preserve downstream model performance during incremental updates, improving memory efficiency without significant accuracy degradation.
+
+**Stack:** PyTorch • Data analysis • Model evaluation
+
+---
+
+## 💼 Work Experience
+
+### Senior Research Engineer — Toshiba Software India (R&D)
+*2019 – 2024*
+
+Led applied AI research projects in industrial computer vision and manufacturing systems.
+
+- Developed incremental learning pipelines for object detection systems.
+- Built anomaly localization systems evaluated on MVTec-AD.
+- Designed domain adaptation solutions for robotic and inspection environments.
+- Optimized deep learning pipelines under compute and latency constraints.
+
+---
+
+## 🎓 Education
+
+### New York University (NYU) Tandon School of Engineering
+**M.S. Electrical Engineering** — Expected May 2026  
+Coursework: Machine Learning, Deep Learning, Computer Vision, NLP, Efficient AI, Probability & Statistics
+
+---
+
+### Indian Institute of Technology (IIT) Tirupati
+**B.Tech. Electrical Engineering** — 2020  
+
+---
+
+## 🛠 Technical Skills
+
+**Languages:** Python, C/C++, SQL  
 **Frameworks:** PyTorch, TensorFlow, HuggingFace, Ray, MLflow  
-**Systems:** CUDA, Distributed Training, HPC (Slurm), Docker  
-**Areas:** LLM Optimization, Quantization, Computer Vision, Efficient AI  
-
----
-
-## 📄 Publications & Writing
-
-Coming soon.
-
----
-
-© 2026 Siddhant Mohan
+**Systems:** CUDA, Distributed Training, Docker, Linux, Slurm  
+**Focus Areas:** LLM Optimization, Quantization, Efficient AI Systems, Computer Vision
