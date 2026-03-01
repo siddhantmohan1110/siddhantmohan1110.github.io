@@ -4,10 +4,10 @@
 }
 
 /* specific colors (optional, but looks nicer) */
-.btn.email { background: #159957; }
-.btn.github { background: #159957; }
-.btn.linkedin { background: #159957; }
-.btn.resume { background: #159957; }
+.btn.email { background: #f06273; }
+.btn.github { background: #24292f; }
+.btn.linkedin { background: #4da6ff; }
+.btn.resume { background: #66c2a5; }
 
 .btn {
   display: inline-flex;
