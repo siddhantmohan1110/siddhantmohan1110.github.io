@@ -8,6 +8,7 @@ title: Siddhant Mohan
 I specialize in **efficient AI systems, LLM optimization, quantization, and computer vision**.  
 I am graduating in **May 2026** and actively seeking **AI/ML Engineer and Applied Research roles**.
 
+<link rel="stylesheet" href="assets/custom.css">
 <link
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
