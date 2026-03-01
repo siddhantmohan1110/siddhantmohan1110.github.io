@@ -3,14 +3,15 @@ layout: default
 title: Siddhant Mohan
 ---
 
-# Hi there! I'm Siddhant, an AI/ML researcher and engineer from NYU and IIT.
-
-I specialize in **efficient AI systems, LLM optimization, quantization, and computer vision**.  
-I am graduating in **May 2026** and actively seeking **AI/ML Engineer and Applied Research roles**.
-
 <link rel="stylesheet" href="assets/custom.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+
 
 <div class="hero-container">
+
+  <div class="hero-right">
+    <img src="assets/images/profile.jpeg" alt="Siddhant Mohan" class="profile-photo">
+  </div>
 
   <div class="hero-left">
     <h1>Hi there! I'm Siddhant, an AI/ML researcher and engineer from NYU and IIT.</h1>
@@ -39,9 +40,7 @@ I am graduating in **May 2026** and actively seeking **AI/ML Engineer and Applie
     </div>
   </div>
 
-  <div class="hero-right">
-    <img src="assets/images/profile.jpeg" alt="Siddhant Mohan" class="profile-photo">
-  </div>
+  
 
 </div>
 
