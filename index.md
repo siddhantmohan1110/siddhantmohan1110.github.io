@@ -6,14 +6,10 @@ title: Siddhant Mohan
 <link rel="stylesheet" href="assets/custom.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
 
+<div class="custom-header">
+  <img src="assets/images/profile.jpeg" alt="Siddhant Mohan" class="header-photo">
 
-<div class="hero-container">
-
-  <div class="hero-right">
-    <img src="assets/images/profile.jpeg" alt="Siddhant Mohan" class="profile-photo">
-  </div>
-
-  <div class="hero-left">
+  <div class="header-text">
     <h1>Hi there! I'm Siddhant, an AI/ML researcher and engineer from NYU and IIT.</h1>
 
     <p class="hero-subtext">
@@ -23,25 +19,22 @@ title: Siddhant Mohan
 
     <div class="button-row">
       <a class="btn fa-btn email" href="mailto:siddhantmohan1110@gmail.com">
-        <i class="fas fa-envelope"></i> Email
+        <i class="fa-solid fa-envelope"></i> Email
       </a>
 
-      <a class="btn fa-btn github" href="https://github.com/siddhantmohan1110" target="_blank">
-        <i class="fab fa-github"></i> GitHub
+      <a class="btn fa-btn github" href="https://github.com/siddhantmohan1110" target="_blank" rel="noopener">
+        <i class="fa-brands fa-github"></i> GitHub
       </a>
 
-      <a class="btn fa-btn linkedin" href="https://www.linkedin.com/in/siddhant-mohan-1110/" target="_blank">
-        <i class="fab fa-linkedin"></i> LinkedIn
+      <a class="btn fa-btn linkedin" href="https://www.linkedin.com/in/siddhant-mohan-1110/" target="_blank" rel="noopener">
+        <i class="fa-brands fa-linkedin"></i> LinkedIn
       </a>
 
-      <a class="btn fa-btn resume" href="Siddhant_Mohan_CV_AI.pdf" target="_blank">
-        <i class="fas fa-file"></i> Resume
+      <a class="btn fa-btn resume" href="Siddhant_Mohan_CV_AI.pdf" target="_blank" rel="noopener">
+        <i class="fa-regular fa-file-lines"></i> Resume
       </a>
     </div>
   </div>
-
-  
-
 </div>
 
 ---
