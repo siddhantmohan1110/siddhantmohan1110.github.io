@@ -45,47 +45,61 @@ a.btn:hover {
 
 
 /* =========================================================
-   CAYMAN HEADER OVERRIDE (photo inside title bar)
-   Requires _layouts/default.html provided earlier
+   CAYMAN HEADER REFINEMENT
    ========================================================= */
 
 .cayman-header-wrap {
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 18px;
-  flex-wrap: wrap;
+  justify-content: center; /* keeps whole block centered in banner */
+  gap: 20px;
 }
 
+/* Smaller circular image */
 .cayman-header-photo {
-  width: 92px;
-  height: 92px;
+  width: 72px;
+  height: 72px;
   border-radius: 50%;
   object-fit: cover;
-  border: 3px solid rgba(255, 255, 255, 0.95);
+  border: 3px solid rgba(255,255,255,0.95);
+  flex-shrink: 0;
 }
 
+/* Text sits to the right of image */
 .cayman-header-text {
   text-align: left;
 }
 
-/* Make the title a bit more impactful without changing theme too much */
-.page-header .project-name {
-  margin-bottom: 0.1rem;
+/* Reduce vertical spacing in banner */
+.page-header {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
 }
 
-/* Tagline spacing */
+/* Clean title spacing */
+.page-header .project-name {
+  margin: 0;
+  font-size: 1.9rem;
+}
+
 .page-header .project-tagline {
   margin-top: 0.35rem;
+  font-size: 1rem;
 }
 
-/* Mobile: stack nicely */
+/* Mobile */
 @media (max-width: 768px) {
-  .cayman-header-text {
+  .cayman-header-wrap {
+    flex-direction: column;
     text-align: center;
   }
 
-  .button-row {
-    justify-content: center;
+  .cayman-header-photo {
+    width: 70px;
+    height: 70px;
+  }
+
+  .cayman-header-text {
+    text-align: center;
   }
 }
