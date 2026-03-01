@@ -72,8 +72,8 @@ a.btn:hover {
 
 /* Reduce vertical spacing in banner */
 .page-header {
-  padding-top: 2rem !important;
-  padding-bottom: 2rem !important;
+  padding-top: 4rem !important;
+  padding-bottom: 4rem !important;
 }
 
 /* Clean title spacing */
