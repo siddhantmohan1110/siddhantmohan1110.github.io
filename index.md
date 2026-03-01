@@ -6,35 +6,27 @@ title: Siddhant Mohan
 <link rel="stylesheet" href="assets/custom.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
 
-<div class="custom-header">
-  <img src="assets/images/profile.jpeg" alt="Siddhant Mohan" class="header-photo">
+<p>
+I specialize in <strong>efficient AI systems, LLM optimization, quantization, and computer vision</strong>.
+I am graduating in <strong>May 2026</strong> and actively seeking AI/ML Engineer and Applied Research roles.
+</p>
 
-  <div class="header-text">
-    <h1>Hi there! I'm Siddhant, an AI/ML researcher and engineer from NYU and IIT.</h1>
+<div class="button-row">
+  <a class="btn fa-btn email" href="mailto:siddhantmohan1110@gmail.com">
+    <i class="fa-solid fa-envelope"></i> Email
+  </a>
 
-    <p class="hero-subtext">
-      I specialize in <strong>efficient AI systems, LLM optimization, quantization, and computer vision</strong>.
-      I am graduating in <strong>May 2026</strong> and actively seeking AI/ML Engineer and Applied Research roles.
-    </p>
+  <a class="btn fa-btn github" href="https://github.com/siddhantmohan1110" target="_blank" rel="noopener">
+    <i class="fa-brands fa-github"></i> GitHub
+  </a>
 
-    <div class="button-row">
-      <a class="btn fa-btn email" href="mailto:siddhantmohan1110@gmail.com">
-        <i class="fa-solid fa-envelope"></i> Email
-      </a>
+  <a class="btn fa-btn linkedin" href="https://www.linkedin.com/in/siddhant-mohan-1110/" target="_blank" rel="noopener">
+    <i class="fa-brands fa-linkedin"></i> LinkedIn
+  </a>
 
-      <a class="btn fa-btn github" href="https://github.com/siddhantmohan1110" target="_blank" rel="noopener">
-        <i class="fa-brands fa-github"></i> GitHub
-      </a>
-
-      <a class="btn fa-btn linkedin" href="https://www.linkedin.com/in/siddhant-mohan-1110/" target="_blank" rel="noopener">
-        <i class="fa-brands fa-linkedin"></i> LinkedIn
-      </a>
-
-      <a class="btn fa-btn resume" href="Siddhant_Mohan_CV_AI.pdf" target="_blank" rel="noopener">
-        <i class="fa-regular fa-file-lines"></i> Resume
-      </a>
-    </div>
-  </div>
+  <a class="btn fa-btn resume" href="Siddhant_Mohan_CV_AI.pdf" target="_blank" rel="noopener">
+    <i class="fa-regular fa-file-lines"></i> Resume
+  </a>
 </div>
 
 ---
