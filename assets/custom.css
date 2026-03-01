@@ -6,8 +6,8 @@
 /* specific colors (optional, but looks nicer) */
 .btn.email { background: #f06273; }
 .btn.github { background: #24292f; }
-.btn.linkedin { background: #4da6ff; }
-.btn.resume { background: #66c2a5; }
+.btn.linkedin { background: #0077b5; }
+.btn.resume { background: #159957; }
 
 .btn {
   display: inline-flex;
@@ -24,4 +24,51 @@
 
 .btn:hover {
   transform: translateY(-2px);
+}
+
+/* HERO LAYOUT */
+.hero-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.hero-left {
+  flex: 1;
+  min-width: 280px;
+}
+
+.hero-subtext {
+  font-size: 1.1rem;
+  margin-top: 10px;
+}
+
+.hero-right {
+  flex: 0 0 230px;
+  text-align: center;
+}
+
+/* PROFILE PHOTO */
+.profile-photo {
+  width: 230px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #e6e6e6;
+}
+
+/* MOBILE STACKING */
+@media (max-width: 768px) {
+  .hero-container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .profile-photo {
+    width: 180px;
+    height: 180px;
+  }
 }
