@@ -7,8 +7,7 @@ title: Siddhant Mohan
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
 
 <p>
-I specialize in <strong>efficient AI systems, LLM optimization, quantization, and computer vision</strong>.
-I am graduating in <strong>May 2026</strong> and actively seeking AI/ML Engineer and Applied Research roles.
+AI/ML Engineer with <strong>4 years of applied AI research experience</strong> and an M.S. from NYU (May 2026). Passionate about building efficient, scalable state-of-the-art machine learning and computer vision systems and actively seeking <strong>AI/ML Engineer and Applied Research</strong> opportunities.
 </p>
 
 <div class="button-row">
