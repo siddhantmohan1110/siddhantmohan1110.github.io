@@ -33,7 +33,9 @@ Applied AI/ML Research Engineer with <strong>4 years of work experience</strong>
 
 ## Academic Projects
 
-### Distribution-Aware Companding Quantization (DACQ)
+Graduate projects at NYU showcasing expertise in efficient AI and modern machine learning systems, including vision-language models, large language models, retrieval-augmented generation (RAG), diffusion models, and efficient generative AI for image and text, with a strong emphasis on scalable model training, optimization, and inference.
+
+### <span class="featured-project-title">Distribution-Aware Companding Quantization (DACQ)</span>
 
 <div class="button-row project-links">
   <a class="btn fa-btn paper" href="https://arxiv.org/abs/2603.00364" target="_blank" rel="noopener">

@@ -48,6 +48,25 @@ a.btn:hover {
   margin-bottom: 1rem;
 }
 
+.project-links a.btn {
+  padding: 6px 12px;
+  font-size: 0.85rem;
+  gap: 4px;
+}
+
+.project-links .fa-btn i {
+  margin-right: 4px;
+  font-size: 14px;
+}
+
+.featured-project-title {
+  display: inline-block;
+  color: #0b5f69;
+  font-size: 1.35em;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
 .project-poster {
   display: block;
   width: 100%;
