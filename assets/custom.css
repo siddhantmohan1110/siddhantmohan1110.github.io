@@ -12,8 +12,6 @@
 .btn.github { background: #24292f; }
 .btn.linkedin { background: #0077b5; }
 .btn.resume { background: #159957; }
-.btn.paper { background: #b31b1b; }
-
 a.btn,
 a.btn:visited {
   display: inline-flex;
@@ -44,27 +42,18 @@ a.btn:hover {
   gap: 10px;
 }
 
-.project-links {
-  margin-bottom: 1rem;
-}
-
-.project-links a.btn {
-  padding: 6px 12px;
-  font-size: 0.85rem;
-  gap: 4px;
-}
-
-.project-links .fa-btn i {
-  margin-right: 4px;
-  font-size: 14px;
-}
-
 .featured-project-title {
   display: inline-block;
   color: #0b5f69;
   font-size: 1.35em;
   font-weight: 700;
   line-height: 1.25;
+}
+
+.project-title-links {
+  font-size: 0.85rem;
+  font-weight: 500;
+  white-space: nowrap;
 }
 
 .project-poster {

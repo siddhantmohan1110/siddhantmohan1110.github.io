@@ -33,19 +33,9 @@ Applied AI/ML Research Engineer with <strong>4 years of work experience</strong>
 
 ## Academic Projects
 
-Graduate projects at NYU showcasing expertise in efficient AI and modern machine learning systems, including vision-language models, large language models, retrieval-augmented generation (RAG), diffusion models, and efficient generative AI for image and text, with a strong emphasis on scalable model training, optimization, and inference.
+My graduate projects at NYU showcasing expertise in efficient AI and modern machine learning systems, including vision-language models, large language models, retrieval-augmented generation (RAG) and diffusion models.
 
-### <span class="featured-project-title">Distribution-Aware Companding Quantization (DACQ)</span>
-
-<div class="button-row project-links">
-  <a class="btn fa-btn paper" href="https://arxiv.org/abs/2603.00364" target="_blank" rel="noopener">
-    <i class="fa-regular fa-file-lines"></i> Paper
-  </a>
-
-  <a class="btn fa-btn github" href="https://github.com/siddhantmohan1110/dacq" target="_blank" rel="noopener">
-    <i class="fa-brands fa-github"></i> GitHub
-  </a>
-</div>
+### <span class="featured-project-title">Distribution-Aware Companding Quantization (DACQ)</span> <span class="project-title-links">[Paper](https://arxiv.org/abs/2603.00364) · [GitHub](https://github.com/siddhantmohan1110/dacq)</span>
 
 DACQ is a post-training quantization method for large language models that uses distribution-aware companding to better preserve model weights under low-bit precision. It aims to improve upon Activation Aware Quantization (AWQ) by using non-uniform quantization bins based on the distribution instead of uniform quantization bins. The project studies the trade-off between weight reconstruction error, benchmark performance, and deployment efficiency across LLMs like Llama3-8B and Qwen2.5-7B, using benchmark datasets such as MMLU and WikiText-2. It **reduces weight reconstruction error (MSE/MAE) by 20%** compared to AWQ, while maintaining competitive accuracy and perplexity.
 
@@ -60,9 +50,6 @@ DACQ is a post-training quantization method for large language models that uses 
 
 <img src="assets/images/NLP_Poster_updated.png" alt="DACQ research poster" class="project-poster">
 
-#### 🚀 Results
-
-- 
 
 ---
 
