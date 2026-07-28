@@ -43,6 +43,15 @@ a.btn:hover {
   gap: 10px;
 }
 
+.project-poster {
+  display: block;
+  width: 100%;
+  max-width: 960px;
+  height: auto;
+  margin: 1.25rem auto 1.75rem;
+  border-radius: 6px;
+}
+
 
 /* =========================================================
    CAYMAN HEADER REFINEMENT
