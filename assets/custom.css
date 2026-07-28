@@ -12,6 +12,7 @@
 .btn.github { background: #24292f; }
 .btn.linkedin { background: #0077b5; }
 .btn.resume { background: #159957; }
+.btn.paper { background: #b31b1b; }
 
 a.btn,
 a.btn:visited {
@@ -41,6 +42,10 @@ a.btn:hover {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
+}
+
+.project-links {
+  margin-bottom: 1rem;
 }
 
 .project-poster {

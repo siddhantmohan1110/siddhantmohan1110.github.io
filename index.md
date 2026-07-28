@@ -35,22 +35,32 @@ Applied AI/ML Research Engineer with <strong>4 years of work experience</strong>
 
 ### Distribution-Aware Companding Quantization (DACQ)
 
+<div class="button-row project-links">
+  <a class="btn fa-btn paper" href="https://arxiv.org/abs/2603.00364" target="_blank" rel="noopener">
+    <i class="fa-regular fa-file-lines"></i> Paper
+  </a>
+
+  <a class="btn fa-btn github" href="https://github.com/siddhantmohan1110/dacq" target="_blank" rel="noopener">
+    <i class="fa-brands fa-github"></i> GitHub
+  </a>
+</div>
+
+DACQ is a post-training quantization method for large language models that uses distribution-aware companding to better preserve model weights under low-bit precision. It aims to improve upon Activation Aware Quantization (AWQ) by using non-uniform quantization bins based on the distribution instead of uniform quantization bins. The project studies the trade-off between weight reconstruction error, benchmark performance, and deployment efficiency across LLMs like Llama3-8B and Qwen2.5-7B, using benchmark datasets such as MMLU and WikiText-2. It **reduces weight reconstruction error (MSE/MAE) by 20%** compared to AWQ, while maintaining competitive accuracy and perplexity.
+
+**Stack:** PyTorch • HuggingFace • CUDA • HPC (Slurm) • Statistical Modeling  
+
+**Models:** Llama3-8B • Qwen2.5-7B
+
+**Datasets:** MMLU • WikiText-2
+
+**Keywords:** LLM Optimization • Post-Training Quantization • Companding • Efficient AI • Model Compression
+
+
 <img src="assets/images/NLP_Poster_updated.png" alt="DACQ research poster" class="project-poster">
 
 #### 🚀 Results
 
-- Achieves **lower reconstruction error (MSE / MAE)** than strong baselines like AWQ  
-- Maintains **competitive accuracy and perplexity** on benchmarks such as MMLU and WikiText-2  
-- Provides **~15–20% throughput improvement** over full-precision models while retaining most benefits of 4-bit quantization
-
----
-
-**Stack:** PyTorch • HuggingFace • CUDA • HPC (Slurm) • Statistical Modeling
-
-Paper : https://arxiv.org/abs/2603.00364
-
-GitHub : https://github.com/siddhantmohan1110/dacq
-
+- 
 
 ---
 
